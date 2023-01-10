@@ -1,0 +1,18 @@
+{
+	"templates": [
+		{
+			"template": "example",
+			"defaultPathOfConfigDefaultPath": "./path",
+			"files": [
+				{
+					"fileName": "FILENAME",
+					"extension": ".ts",
+					"path": "./example",
+					"body": [
+						"const FILENAME = 'FILENAME'"
+					]
+				}
+			]
+		}
+	]
+}

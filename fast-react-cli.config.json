@@ -1,0 +1,9 @@
+{
+	"wordForReplace": "FILENAME",
+	"templatesPath": "frc/templates",
+	"layoutsPath": "frc/layouts",
+	"defaultOutputPath": "./src",
+	"ignoreExistingFile": false,
+	"createNamedFolder": false,
+	"defaultStyleExtension": "css"
+}
