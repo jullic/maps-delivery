@@ -1,0 +1,17 @@
+.root * {
+	width: 100%;
+	font-size: 12px;
+	max-width: min-content;
+}
+
+.row {
+	background-color: rgb(192, 192, 192);
+}
+
+.row:hover {
+	background-color: rgb(192, 192, 192) !important;
+}
+
+.row td {
+	background-color: rgb(192, 192, 192) !important;
+}
