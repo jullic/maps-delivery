@@ -19,8 +19,10 @@
 	"rules": {
 		"react/react-in-jsx-scope": "off",
 		"camelcase": "error",
-		"spaced-comment": "error",
+		"spaced-comment": "off",
 		"quotes": ["error", "single"],
-		"no-duplicate-imports": "error"
+		"no-duplicate-imports": "error",
+		"@typescript-eslint/no-empty-interface": "off",
+		"@typescript-eslint/ban-ts-comment": "off"
 	}
 }
